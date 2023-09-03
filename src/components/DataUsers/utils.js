@@ -3,3 +3,4 @@ export const totalPrice = (accions) => {
     accions.forEach(accion => sum += accion.valueMonetary)
     return sum
   }
+
