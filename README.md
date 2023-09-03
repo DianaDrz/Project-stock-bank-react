@@ -13,13 +13,13 @@ Currently, two official plugins are available:
 1. Clonar el código fuente desde el repositorio.
 
 ```sh
-$ https://github.com/DianaDrz/Periodic-table-backend.git
+$ https://github.com/DianaDrz/Project-stock-bank-react.git
 ```
 
 2. Ingresar a la carpeta.
 
 ```sh
-$ cd Periodic-table-backend
+$ cd Project-stock-bank-react
 ```
 
 3. Instalar las dependencias de paquetes npm
